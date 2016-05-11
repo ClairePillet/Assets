@@ -8,7 +8,7 @@ public class Rotate_Move : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		target=GameObject.Find("patoune");
+		target=GameObject.Find("Patoune");
 		float step = speed*Time.deltaTime;
 		transform.position = Vector3.MoveTowards (transform.position, target.transform.position, step);
 	}

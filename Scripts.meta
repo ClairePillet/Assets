@@ -1,7 +1,25 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+guid: 1488d74a9cbc5454c925fda406d2986c
+folderAsset: yes
+timeCreated: 1457865900
+=======
 guid: 934a9305e6eebb74d86a4333d49be865
 folderAsset: yes
 timeCreated: 1457549252
+>>>>>>> origin/master
+=======
+guid: 1488d74a9cbc5454c925fda406d2986c
+folderAsset: yes
+timeCreated: 1457865900
+>>>>>>> refs/heads/BranchePourMettreLes.meta
+=======
+guid: 934a9305e6eebb74d86a4333d49be865
+folderAsset: yes
+timeCreated: 1457549252
+>>>>>>> d94fc8e9af21dbfb2ad8d8fff6d9c7de473dce48
 licenseType: Free
 DefaultImporter:
   userData: 
